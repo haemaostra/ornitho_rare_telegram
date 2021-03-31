@@ -18,7 +18,8 @@ updates <- bot$getUpdates()
 
 # Retrieve your chat id
 # Note: you should text the bot before calling `getUpdates`
-chat_id <- updates[[2L]]$from_chat_id()
+# chat_id <- updates[[1L]]$from_chat_id()
+chat_id <- Sys.getenv("CHAT_ID")
 
 #### scrap rare observation ----
 #Address of the login webpage
