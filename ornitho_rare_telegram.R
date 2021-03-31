@@ -19,7 +19,6 @@ updates <- bot$getUpdates()
 # Retrieve your chat id
 # Note: you should text the bot before calling `getUpdates`
 chat_id <- updates[[1L]]$from_chat_id()
-#chat_id <- 92150075
 
 #### scrap rare observation ----
 #Address of the login webpage
@@ -47,9 +46,9 @@ ornithoDErare <- read_html(page)
 ornithoDErare
 str(ornithoDErare)
 
-txt_obs_old<-read.table("txt_obs_old.txt") # Alte Art des Tages lesen
+txt_obs_old<-read.table("txt_obs_old.txt") # read previous observations
 
-txt_obs_old<-as.character(txt_obs_old$x[1]) #Alte Art des Tages zu character
+txt_obs_old<-as.character(txt_obs_old$x[1]) #previous observations as character
 
 txt_obs <- ornithoDErare %>% 
   rvest::html_nodes('body') %>% 
@@ -64,8 +63,8 @@ txt_obs <- gsub(",", "\n", txt_obs)
 
 #
 if (txt_obs_old==txt_obs) {
-  write.table(txt_obs,"txt_obs_old.txt") # neue Art des Tages als alte speichern
+  write.table(txt_obs,"txt_obs_old.txt") # write recent observations to previous observations
 } else {
   bot$sendMessage(chat_id = chat_id, text = txt_obs, parse_mode = "Markdown")
-  write.table(txt_obs,"txt_obs_old.txt") # neue Art des Tages als alte speichern
+  write.table(txt_obs,"txt_obs_old.txt") # write recent observations to previous observations
 }
