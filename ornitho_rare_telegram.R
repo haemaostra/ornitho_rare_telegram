@@ -8,7 +8,7 @@ library(xml2)
 
 #### Building an R Bot in 3 steps ----
 # 1. Creating the Updater object
-updater <- Updater(token = bot_token("RTelegramBot"))
+updater <- Updater(token = Sys.getenv("RTELEGRAMBOT_TOKEN"))
 
 bot <- updater[["bot"]]
 
@@ -30,7 +30,7 @@ login<-"https://www.ornitho.de/index.php?m_id=1182&sp_DOffset=7&sp_Cat%5Bnever%5
 #create a web session with the desired login address
 pgsession<-html_session(login)
 pgform<-html_form(pgsession)[[1]]  #in this case the submit is the 2nd form
-filled_form<-set_values(pgform, USERNAME= Sys.getenv("ornitho_USER"), PASSWORD= Sys.getenv("ornitho_PW"))
+filled_form<-set_values(pgform, USERNAME= Sys.getenv("ORNITHO_USER"), PASSWORD= Sys.getenv("ORNITHO_PW"))
 submit_form(pgsession, filled_form)
 
 #pre allocate the final results dataframe.
