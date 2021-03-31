@@ -12,6 +12,7 @@ jobs:
       RTELEGRAMBOT_TOKEN: ${{ secrets.RTELEGRAMBOT_TOKEN }}
       ORNITHO_USER: ${{ secrets.ORNITHO_USER }}
       ORNITHO_PW: ${{ secrets.ORNITHO_PW }}
+      CHAT_ID: ${{ secrets.CHAT_ID }}
       
     steps:
       - uses: actions/checkout@v2
