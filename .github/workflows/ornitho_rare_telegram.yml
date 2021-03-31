@@ -1,7 +1,8 @@
 name: ornitho_rare_telegram
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0,30 6-20 * * *'  # At minute 0 past every hour from 6 through 20.
 
 jobs:
   ornitho_rare_telegram-post:
