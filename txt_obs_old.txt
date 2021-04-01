@@ -1,2 +1,3 @@
 "x"
-"1" "Iberienzilpzalp (Phylloscopus ibericus)"
+"1" "Uferschnepfe (ssp. islandica)
+ Isländische (Limosa limosa islandica)"
