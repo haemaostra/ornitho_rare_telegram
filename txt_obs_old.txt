@@ -1,4 +1,6 @@
 "x"
 "1" "Kolbenente (Netta rufina)
+ Uferschnepfe (ssp. islandica)
+ Isländische (Limosa limosa islandica)
  Dohle (ssp. soemmerringii)
  Halsbanddohle (Coloeus monedula soemmerringii)"
