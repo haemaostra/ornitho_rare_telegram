@@ -62,10 +62,8 @@ txt_obs
 txt_obs <- toString(txt_obs)
 txt_obs <- gsub(",", "\n", txt_obs)
 
-#
-if (txt_obs_old==txt_obs) {
-  write.table(txt_obs,"txt_obs_old.txt") # write recent observations to previous observations
-} else {
+# send message if list is updated
+if (txt_obs_old!=txt_obs) {
   bot$sendMessage(chat_id = chat_id, text = txt_obs, parse_mode = "Markdown")
   write.table(txt_obs,"txt_obs_old.txt") # write recent observations to previous observations
 }
