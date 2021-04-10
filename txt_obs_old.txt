@@ -1,2 +1,4 @@
 "x"
-"1" "Kolbenente (Netta rufina)"
+"1" "Kolbenente (Netta rufina)
+ Uferschnepfe (ssp. islandica)
+ Isländische (Limosa limosa islandica)"
