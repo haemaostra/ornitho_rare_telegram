@@ -1,5 +1,2 @@
 "x"
-"1" "Kolbenente (Netta rufina)
- Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)
- Berghänfling (Carduelis flavirostris)"
+"1" "Kolbenente (Netta rufina)"
