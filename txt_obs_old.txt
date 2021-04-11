@@ -1,4 +1,5 @@
 "x"
 "1" "Kolbenente (Netta rufina)
  Moorente (Aythya nyroca)
+ Uferschnepfe (Limosa limosa)
  Wiedehopf (Upupa epops)"
