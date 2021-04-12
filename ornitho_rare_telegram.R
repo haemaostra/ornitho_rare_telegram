@@ -38,7 +38,7 @@ results<-data.frame()
 #for (i in 1:5)
 #{
   #base address of the pages to extract information from
-  url<-"https://www.ornitho.de/index.php?m_id=1182&sp_DOffset=1&sp_Cat%5Bnever%5D=1&sp_Cat%5Bveryrare%5D=1&sp_Cat%5Brare%5D=1&sp_FDisplay=SPECIES_PLACE_DATE"
+  url<-"https://www.ornitho.de/index.php?m_id=1182&sp_DOffset=1&sp_Cat%5Bnever%5D=1&sp_Cat%5Bveryrare%5D=1&sp_Cat%5Brare%5D=1&sp_cC=-000000000000000000000000000000000000000000000000800000000000000000000000&sp_FDisplay=SPECIES_PLACE_DATE"
   #url<-paste0(url, i)
   page<-jump_to(pgsession, url)
 #}
