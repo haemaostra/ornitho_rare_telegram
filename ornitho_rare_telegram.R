@@ -60,6 +60,8 @@ txt_obs
 
 # send rare observations to telegram
 txt_obs <- toString(txt_obs)
+txt_obs <- gsub("Kolbenente \\(Netta rufina\\), ", "", txt_obs)
+txt_obs <- gsub("Kolbenente \\(Netta rufina\\)", "", txt_obs)
 txt_obs <- gsub(",", "\n", txt_obs)
 
 # send message if list is updated
