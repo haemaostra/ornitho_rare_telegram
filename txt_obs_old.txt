@@ -1,5 +1,6 @@
 "x"
-"1" "Uferschnepfe (ssp. islandica)
+"1" "Moorente (Aythya nyroca)
+ Uferschnepfe (ssp. islandica)
  Isländische (Limosa limosa islandica)
  Schafstelze (ssp. flavissima)
  Gelbkopf-Schafstelze (Motacilla flava flavissima)"
