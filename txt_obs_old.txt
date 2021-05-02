@@ -1,2 +1,3 @@
 "x"
-"1" "Moorente (Aythya nyroca)"
+"1" "Heringsmöwe (ssp. fuscus)
+ Baltische (Larus fuscus fuscus)"
