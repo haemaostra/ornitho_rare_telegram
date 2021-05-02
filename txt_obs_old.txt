@@ -1,3 +1,4 @@
 "x"
 "1" "Heringsmöwe (ssp. fuscus)
- Baltische (Larus fuscus fuscus)"
+ Baltische (Larus fuscus fuscus)
+ Küstenseeschwalbe (Sterna paradisaea)"
