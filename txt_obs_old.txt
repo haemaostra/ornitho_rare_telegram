@@ -1,2 +1,4 @@
 "x"
-"1" "Moorente (Aythya nyroca)"
+"1" "Steinwälzer (Arenaria interpres)
+ Lachseeschwalbe (Gelochelidon nilotica)
+ Wiedehopf (Upupa epops)"
