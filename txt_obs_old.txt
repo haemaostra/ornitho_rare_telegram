@@ -1,4 +1,2 @@
 "x"
-"1" "Steinwälzer (Arenaria interpres)
- Lachseeschwalbe (Gelochelidon nilotica)
- Wiedehopf (Upupa epops)"
+"1" "Seidenreiher (Egretta garzetta)"
