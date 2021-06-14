@@ -1,4 +1,2 @@
 "x"
-"1" "Moorente (Aythya nyroca)
- Kiebitzregenpfeifer (Pluvialis squatarola)
- Orpheusspötter (Hippolais polyglotta)"
+"1" "Säbelschnäbler (Recurvirostra avosetta)"
