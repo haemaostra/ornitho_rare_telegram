@@ -1,2 +1,3 @@
 "x"
-"1" "Kuhreiher (Bubulcus ibis)"
+"1" "Mäusebussard (ssp. vulpinus)
+ Falkenbussard (Buteo buteo vulpinus)"
