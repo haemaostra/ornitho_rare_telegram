@@ -1,3 +1,2 @@
 "x"
-"1" "Kuhreiher (Bubulcus ibis)
- Sichelstrandläufer (Calidris ferruginea)"
+"1" "Kuhreiher (Bubulcus ibis)"
