@@ -1,3 +1,2 @@
 "x"
-"1" "Zwergdommel (Ixobrychus minutus)
- Kuhreiher (Bubulcus ibis)"
+"1" "Zwergdommel (Ixobrychus minutus)"
