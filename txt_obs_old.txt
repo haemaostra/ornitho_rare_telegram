@@ -1,5 +1,2 @@
 "x"
-"1" "Zwergdommel (Ixobrychus minutus)
- Kuhreiher (Bubulcus ibis)
- Odinshühnchen (Phalaropus lobatus)
- Raubseeschwalbe (Hydroprogne caspia)"
+"1" "Odinshühnchen (Phalaropus lobatus)"
