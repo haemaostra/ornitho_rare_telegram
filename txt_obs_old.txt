@@ -1,2 +1,4 @@
 "x"
-"1" "Odinshühnchen (Phalaropus lobatus)"
+"1" "Schrei-_oder_Schelladler (Aquila pomarina / clanga)
+ Kuhreiher (Bubulcus ibis)
+ Odinshühnchen (Phalaropus lobatus)"
