@@ -1,5 +1,2 @@
 "x"
-"1" "Schrei-_oder_Schelladler (Aquila pomarina / clanga)
- Zwergdommel (Ixobrychus minutus)
- Kuhreiher (Bubulcus ibis)
- Odinshühnchen (Phalaropus lobatus)"
+"1" "Odinshühnchen (Phalaropus lobatus)"
