@@ -2,5 +2,4 @@
 "1" "Zwergdommel (Ixobrychus minutus)
  Kuhreiher (Bubulcus ibis)
  Odinshühnchen (Phalaropus lobatus)
- Knutt (Calidris canutus)
- Sichelstrandläufer (Calidris ferruginea)"
+ Knutt (Calidris canutus)"
