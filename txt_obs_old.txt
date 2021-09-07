@@ -1,3 +1,4 @@
 "x"
-"1" "Odinshühnchen (Phalaropus lobatus)
+"1" "Kuhreiher (Bubulcus ibis)
+ Odinshühnchen (Phalaropus lobatus)
  Knutt (Calidris canutus)"
