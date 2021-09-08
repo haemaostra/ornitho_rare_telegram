@@ -1,5 +1,4 @@
 "x"
-"1" "Zwergdommel (Ixobrychus minutus)
- Kuhreiher (Bubulcus ibis)
+"1" "Pfuhlschnepfe (Limosa lapponica)
  Odinshühnchen (Phalaropus lobatus)
  Knutt (Calidris canutus)"
