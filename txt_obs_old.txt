@@ -1,5 +1,2 @@
 "x"
-"1" "Kuhreiher (Bubulcus ibis)
- Pfuhlschnepfe (Limosa lapponica)
- Odinshühnchen (Phalaropus lobatus)
- Knutt (Calidris canutus)"
+"1" "Kuhreiher (Bubulcus ibis)"
