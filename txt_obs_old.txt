@@ -1,5 +1,4 @@
 "x"
 "1" "Kuhreiher (Bubulcus ibis)
  Odinshühnchen (Phalaropus lobatus)
- Knutt (Calidris canutus)
- Rotkehlpieper (Anthus cervinus)"
+ Knutt (Calidris canutus)"
