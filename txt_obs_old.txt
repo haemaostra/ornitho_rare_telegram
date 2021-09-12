@@ -2,4 +2,6 @@
 "1" "Zwergdommel (Ixobrychus minutus)
  Kuhreiher (Bubulcus ibis)
  Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)"
+ Isländische (Limosa limosa islandica)
+ Odinshühnchen (Phalaropus lobatus)
+ Knutt (Calidris canutus)"
