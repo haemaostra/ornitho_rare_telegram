@@ -1,5 +1,2 @@
 "x"
-"1" "Kuhreiher (Bubulcus ibis)
- Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)
- Knutt (Calidris canutus)"
+"1" "Kuhreiher (Bubulcus ibis)"
