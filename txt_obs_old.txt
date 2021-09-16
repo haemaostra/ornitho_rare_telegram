@@ -1,2 +1,4 @@
 "x"
-"1" "Kuhreiher (Bubulcus ibis)"
+"1" "Kuhreiher (Bubulcus ibis)
+ Pfuhlschnepfe (Limosa lapponica)
+ Knutt (Calidris canutus)"
