@@ -1,4 +1,6 @@
 "x"
 "1" "Kuhreiher (Bubulcus ibis)
+ Uferschnepfe (ssp. islandica)
+ Isländische (Limosa limosa islandica)
  Pfuhlschnepfe (Limosa lapponica)
  Knutt (Calidris canutus)"
