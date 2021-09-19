@@ -1,6 +1,2 @@
 "x"
-"1" "Bergente (Aythya marila)
- Kuhreiher (Bubulcus ibis)
- Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)
- Sichelstrandläufer (Calidris ferruginea)"
+"1" "Kuhreiher (Bubulcus ibis)"
