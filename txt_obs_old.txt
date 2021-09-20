@@ -1,4 +1,5 @@
 "x"
 "1" "Kuhreiher (Bubulcus ibis)
  Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)"
+ Isländische (Limosa limosa islandica)
+ Rotkehlpieper (Anthus cervinus)"
