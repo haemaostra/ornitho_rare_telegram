@@ -1,2 +1,4 @@
 "x"
-"1" "Kuhreiher (Bubulcus ibis)"
+"1" "Kuhreiher (Bubulcus ibis)
+ Uferschnepfe (ssp. islandica)
+ Isländische (Limosa limosa islandica)"
