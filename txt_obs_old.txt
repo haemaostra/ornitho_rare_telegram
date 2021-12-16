@@ -1,3 +1,2 @@
 "x"
-"1" "Schlammläufer
- unbestimmt (Limnodromus sp.)"
+"1" "Großer Schlammläufer (Limnodromus scolopaceus)"
