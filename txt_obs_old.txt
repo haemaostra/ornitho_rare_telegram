@@ -1,2 +1,3 @@
 "x"
-"1" "Großer Schlammläufer (Limnodromus scolopaceus)"
+"1" "Zwerggans (Anser erythropus)
+ "
