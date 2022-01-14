@@ -1,2 +1,4 @@
 "x"
-"1" "Ringschnabelente (Aythya collaris)"
+"1" "Zwerggans (Anser erythropus)
+ Dohle (ssp. soemmerringii)
+ Halsbanddohle (Coloeus monedula soemmerringii)"
