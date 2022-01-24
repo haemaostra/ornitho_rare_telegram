@@ -1,2 +1,3 @@
 "x"
-"1" "Polarmöwe (Larus glaucoides)"
+"1" "Eismöwe (Larus hyperboreus)
+ Polarmöwe (Larus glaucoides)"
