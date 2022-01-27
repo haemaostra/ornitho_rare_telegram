@@ -1,3 +1,4 @@
 "x"
-"1" "Polarmöwe (ssp. kumlieni)
+"1" "Polarmöwe (Larus glaucoides)
+ Polarmöwe (ssp. kumlieni)
  Kumlienmöwe (Larus glaucoides kumlieni)"
