@@ -1,3 +1,4 @@
 "x"
-"1" "Kurzschnabelgans (Anser brachyrhynchus)
- Eismöwe (Larus hyperboreus)"
+"1" "Eismöwe (Larus hyperboreus)
+ Polarmöwe (ssp. kumlieni)
+ Kumlienmöwe (Larus glaucoides kumlieni)"
