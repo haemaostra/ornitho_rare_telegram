@@ -1,5 +1,3 @@
 "x"
 "1" "Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)
- Blaukehlchen (ssp. cyanecula)
- Weißsterniges (Luscinia svecica cyanecula)"
+ Isländische (Limosa limosa islandica)"
