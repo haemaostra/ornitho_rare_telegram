@@ -1,3 +1,2 @@
 "x"
-"1" "Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)"
+"1" "Heringsmöwe (ssp. graellsii) (Larus fuscus graellsii)"
