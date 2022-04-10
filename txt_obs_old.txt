@@ -1,4 +1,3 @@
 "x"
 "1" "Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)
- Pfuhlschnepfe (Limosa lapponica)"
+ Isländische (Limosa limosa islandica)"
