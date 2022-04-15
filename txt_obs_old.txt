@@ -1,2 +1,4 @@
 "x"
-"1" "Ohrentaucher (Podiceps auritus)"
+"1" "Ohrentaucher (Podiceps auritus)
+ Uferschnepfe (ssp. islandica)
+ Isländische (Limosa limosa islandica)"
