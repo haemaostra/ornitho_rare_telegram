@@ -1,4 +1,2 @@
 "x"
-"1" "Säbelschnäbler (Recurvirostra avosetta)
- Uferschnepfe (ssp. islandica)
- Isländische (Limosa limosa islandica)"
+"1" "Zwergseeschwalbe (Sternula albifrons)"
