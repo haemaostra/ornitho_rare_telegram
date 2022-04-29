@@ -1,2 +1,2 @@
 "x"
-"1" "Zwergseeschwalbe (Sternula albifrons)"
+"1" "Kuhreiher (Bubulcus ibis)"
