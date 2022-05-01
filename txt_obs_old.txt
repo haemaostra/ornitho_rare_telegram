@@ -1,5 +1,7 @@
 "x"
 "1" "Blauflügelente (Spatula discors)
+ Moorente (Aythya nyroca)
+ Stelzenläufer (Himantopus himantopus)
  Säbelschnäbler (Recurvirostra avosetta)
  Graubrust-Strandläufer (Calidris melanotos)
  Bachstelze (ssp. yarrellii)
