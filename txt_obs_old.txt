@@ -1,4 +1,6 @@
 "x"
 "1" "Blauflügelente (Spatula discors)
  Säbelschnäbler (Recurvirostra avosetta)
- Graubrust-Strandläufer (Calidris melanotos)"
+ Graubrust-Strandläufer (Calidris melanotos)
+ Bachstelze (ssp. yarrellii)
+ Trauerbachstelze (Motacilla alba yarrellii)"
