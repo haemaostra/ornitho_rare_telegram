@@ -1,5 +1,4 @@
 "x"
 "1" "Blauflügelente (Spatula discors)
- Moorente (Aythya nyroca)
  Säbelschnäbler (Recurvirostra avosetta)
  Graubrust-Strandläufer (Calidris melanotos)"
