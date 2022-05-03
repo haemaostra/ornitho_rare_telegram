@@ -1,3 +1,4 @@
 "x"
 "1" "Moorente (Aythya nyroca)
- Kuhreiher (Bubulcus ibis)"
+ Kuhreiher (Bubulcus ibis)
+ Wiedehopf (Upupa epops)"
