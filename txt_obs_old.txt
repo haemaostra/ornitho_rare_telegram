@@ -1,2 +1,4 @@
 "x"
-"1" "Wiedehopf (Upupa epops)"
+"1" "Wiedehopf (Upupa epops)
+ Schafstelze (ssp. feldegg)
+ Maskenschafstelze (Motacilla flava feldegg)"
