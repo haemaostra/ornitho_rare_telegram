@@ -1,3 +1,5 @@
 "x"
 "1" "Schafstelze (ssp. flavissima)
- Gelbkopf-Schafstelze (Motacilla flava flavissima)"
+ Gelbkopf-Schafstelze (Motacilla flava flavissima)
+ Bachstelze (ssp. yarrellii)
+ Trauerbachstelze (Motacilla alba yarrellii)"
