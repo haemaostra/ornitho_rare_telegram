@@ -1,2 +1,3 @@
 "x"
-"1" "Halsbandschnäpper (Ficedula albicollis)"
+"1" "Schafstelze (ssp. flavissima)
+ Gelbkopf-Schafstelze (Motacilla flava flavissima)"
