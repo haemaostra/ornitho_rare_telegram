@@ -1,5 +1,2 @@
 "x"
-"1" "Schafstelze (ssp. flavissima)
- Gelbkopf-Schafstelze (Motacilla flava flavissima)
- Bachstelze (ssp. yarrellii)
- Trauerbachstelze (Motacilla alba yarrellii)"
+"1" "Stelzenläufer (Himantopus himantopus)"
