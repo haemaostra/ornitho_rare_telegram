@@ -1,2 +1,3 @@
 "x"
-"1" "Stelzenläufer (Himantopus himantopus)"
+"1" "Stelzenläufer (Himantopus himantopus)
+ Bienenfresser (Merops apiaster)"
