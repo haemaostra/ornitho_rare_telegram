@@ -1,3 +1,2 @@
 "x"
-"1" "Stelzenläufer (Himantopus himantopus)
- Sanderling (Calidris alba)"
+"1" "Sanderling (Calidris alba)"
