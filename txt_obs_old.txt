@@ -1,2 +1,3 @@
 "x"
-"1" "Weißbart-Seeschwalbe (Chlidonias hybrida)"
+"1" "Sanderling (Calidris alba)
+ Weißbart-Seeschwalbe (Chlidonias hybrida)"
