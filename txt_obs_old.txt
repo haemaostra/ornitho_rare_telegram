@@ -1,3 +1,2 @@
 "x"
-"1" "Blaukehlchen (ssp. cyanecula)
- Weißsterniges (Luscinia svecica cyanecula)"
+"1" "Orpheusspötter (Hippolais polyglotta)"
