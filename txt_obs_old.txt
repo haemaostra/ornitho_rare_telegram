@@ -1,2 +1,3 @@
 "x"
-"1" "Sichelstrandläufer (Calidris ferruginea)"
+"1" "Schlangenadler (Circaetus gallicus)
+ Sichelstrandläufer (Calidris ferruginea)"
