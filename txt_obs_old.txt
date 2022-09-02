@@ -1,4 +1,2 @@
 "x"
-"1" "Eiderente (Somateria mollissima)
- Seidenreiher (Egretta garzetta)
- Rotfußfalke (Falco vespertinus)"
+"1" "Sichelstrandläufer (Calidris ferruginea)"
