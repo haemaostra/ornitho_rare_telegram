@@ -1,2 +1,3 @@
 "x"
-"1" "Sichelstrandläufer (Calidris ferruginea)"
+"1" "Mornellregenpfeifer (Charadrius morinellus)
+ Schmarotzerraubmöwe (Stercorarius parasiticus)"
