@@ -1,2 +1,3 @@
 "x"
-"1" "Steppen-_oder_Wiesenweihe (Circus macrourus / pygargus)"
+"1" "Steppen-_oder_Wiesenweihe (Circus macrourus / pygargus)
+ Sichelstrandläufer (Calidris ferruginea)"
